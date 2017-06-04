@@ -1,0 +1,49 @@
+
+[19-Mar-2017 05:16:43 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 05:17:06 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 05:18:11 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 05:18:23 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 05:18:58 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 17:07:58 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 17:09:07 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 17:09:59 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 18:04:23 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[19-Mar-2017 20:38:47 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 00:50:28 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 08:38:05 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:22:01 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:22:48 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:36:41 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:38:11 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:39:52 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 12:40:39 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 14:43:11 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 14:57:01 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 15:07:26 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 15:11:03 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 15:12:38 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1256
+[20-Mar-2017 15:13:16 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1255
+[20-Mar-2017 15:14:55 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1255
+[20-Mar-2017 15:15:52 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1255
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1264
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1265
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1266
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1267
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1269
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1270
+[20-Mar-2017 15:16:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1272
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1264
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1265
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1266
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1267
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1269
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1270
+[20-Mar-2017 15:17:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1272
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1268
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1269
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1270
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1271
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1273
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1274
+[20-Mar-2017 15:22:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1276
+[24-Mar-2017 16:30:34 UTC] PHP Fatal error:  Call to a member function get_error_codes() on a non-object in /home/lcnassociation/public_html/wp-content/plugins/loginpress/custom.php on line 1244
