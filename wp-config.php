@@ -24,11 +24,11 @@ define('DB_NAME', 'lcnassoc_site');
 
 
 /** MySQL database username */
-define('DB_USER', 'lcnassoc_site');
+define('DB_USER', '');
 
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Piramide#2017');
+define('DB_PASSWORD', '');
 
 
 /** MySQL hostname */
